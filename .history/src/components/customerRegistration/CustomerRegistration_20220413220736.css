@@ -1,0 +1,10 @@
+.form p {
+    text-decoration: none;
+    color: black;
+
+    margin-top: 30px;
+    margin-left: 170px;
+    /* font-weight: bold; */
+    /* display: inline-block; */
+    transition: 0.5s;
+}
